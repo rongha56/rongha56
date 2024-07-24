@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 🔧 사용 기술
+### My Stack
 
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![JPA](https://img.shields.io/badge/JPA-5B4638?style=for-the-badge&logo=hibernate&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 |:---:|:---:|:---:|:---:|
