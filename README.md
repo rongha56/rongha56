@@ -1,24 +1,37 @@
-### Hi there 👋
-I am a developer primarily using Java, JPA, Spring Boot, and JavaScript. I am interested in improving user experience and creating efficient and scalable web applications.
+<h1 align="center">Hi there 👋, I'm a Backend Developer!</h1>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=사용자명&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-### 💻 My Stack 
+## 🚀 About Me
+I am a backend developer specializing in **Java, JPA, Spring Boot, and Linux**.  
+I love improving user experience, optimizing performance, and building scalable applications.
 
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![JPA](https://img.shields.io/badge/JPA-5B4638?style=for-the-badge&logo=hibernate&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-|:---:|:---:|:---:|:---:|
-| **Java** | **JPA** | **Spring Boot** | **JavaScript** |
-<!--
-**rongha56/rongha56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Featured Projects
+| Project | Description | Tech Stack | Link |
+|---------|------------|-----------|------|
+| **GREATBOOKS** | Educational content platform for children & adolescents | `Spring Boot`, `JPA`, `MySQL` | [🔗 GitHub](https://github.com/사용자명/GREATBOOKS) |
+| **KBSTARETF** | ETF investment homepage maintenance | `Spring`, `MyBatis`, `SQL Server` | [🔗 GitHub](https://github.com/사용자명/KBSTARETF) |
+| **Lotte Hotel Senior Residence** | Website generation & content management | `Spring Boot`, `JPA`, `AJAX` | [🔗 GitHub](https://github.com/사용자명/LotteSenior) |
+| **ArchiSound** | Architectural acoustics consulting website | `Spring Boot`, `JPA`, `Thymeleaf` | [🔗 GitHub](https://github.com/사용자명/ArchiSound) |
 
-Here are some ideas to get you started:
+## 📫 Contact Me
+- **Portfolio:** [🔗 My Portfolio](https://사용자명.github.io)
+- **Blog:** [📖 Tistory](https://사용자명.tistory.com)
+- **Email:** 사용자명@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐️ From [사용자명](https://github.com/사용자명)
