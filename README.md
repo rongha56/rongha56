@@ -1,8 +1,5 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #ff1493; font-size: 36px; background: linear-gradient(to right, #ff69b4, #87ceeb); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <span role="img" aria-label="computer" style="font-size: 48px;">💻</span>
-  <span role="img" aria-label="cloud" style="font-size: 48px;">☁️</span>
   Backend & Infrastructure Developer
-  <span role="img" aria-label="gear" style="font-size: 48px;">⚙️</span>
 </h1>
 
 
@@ -14,19 +11,18 @@
 
 
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-<h2 align="center">📬 Contact & Links</h2>
+<h2 align="center">Contact & Links</h2>
 <p align="center">
   <a href="https://github.com/사용자명">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
