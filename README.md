@@ -24,13 +24,13 @@
 
 <h2 align="center">Contact & Links</h2>
 <p align="center">
-  <a href="https://github.com/rongha56">
+  <a href="https://github.com/rongha56" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://사용자명.github.io">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://rongha.tistory.com">
+  <a href="https://rongha.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-00BFFF?style=for-the-badge&logo=tistory&logoColor=white" />
   </a>
   <a href="mailto:rongha56@gmail.com">
