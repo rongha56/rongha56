@@ -1,3 +1,6 @@
+<a href="https://github.com/git-goods/gitanimals">
+  <img src="https://render.gitanimals.org/lines/rongha56?pet-id=1" width="1000" height="120"/>
+</a>
 
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #ff1493; font-size: 36px; background: linear-gradient(to right, #ff69b4, #87ceeb); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   Backend & Infrastructure Developer
@@ -10,7 +13,6 @@
 
 
 
-
 <h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -20,7 +22,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
+<h2 align="center">Collaboration & Docs</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</p>
 
 <h2 align="center">Contact & Links</h2>
 <p align="center">
