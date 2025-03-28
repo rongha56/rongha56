@@ -42,14 +42,6 @@
   </a>
 </p>
 
-<a href="https://github.com/git-goods/gitanimals">
-  <img src="https://render.gitanimals.org/lines/rongha56?pet-id=1" width="1000" height="120"/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/rongha56" width="100%" height="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </a>
-
-<a href="https://github.com/git-goods/gitanimals">
-  <img src="https://render.gitanimals.org/lines/rongha56?pet-id=1" width="1000" height="120"/>
-</a>
-
-
-
-
