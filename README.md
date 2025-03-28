@@ -8,15 +8,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rongha56&theme=radical&background=ffffff&border=ff00ff&stroke=ff00ff&ring=ff00ff&fire=ff00ff&currStreakLabel=ff00ff" width="48%" height="200" />
 </p>
 
-
-
 <h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=black" />
+  <img src="https://img.shields.io/badge/JPA-800080?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <h2 align="center">Collaboration & Docs</h2>
